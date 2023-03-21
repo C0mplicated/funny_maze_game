@@ -1,0 +1,5 @@
+I ask Professor Branch about how to prevent the player to move through the walls. She suggests that I can make a list of points which correspond to the centers of each rectangle. 
+
+I look at the code of Bouncing Ball from my Lab 17 to create the Killer in my Game. 
+
+I search the image on google.com and the image is from https://www.amazon.com/ALBERT-EINSTEIN-TONGUE-PICTURE-science/dp/B00AF262K0
